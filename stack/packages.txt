@@ -45,6 +45,9 @@ openssh-server
 php-pear
 php5-curl
 php5-dev
+php5-cli
+php5-cgi
+php5-fpm 
 postgresql
 postgresql-server-dev-9.1
 python-dev
