@@ -13,6 +13,7 @@ git-core
 gcc
 imagemagick
 iputils-tracepath
+libbz2-dev
 libcurl3
 libcurl3-dev
 libcurl4-openssl-dev
@@ -33,7 +34,6 @@ libssl-dev
 libssl0.9.8
 libxml2-dev
 libxslt-dev
-libz2-dev
 mercurial
 mysql-client
 netcat-openbsd
